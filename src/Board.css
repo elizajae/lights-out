@@ -1,0 +1,6 @@
+.board-container {
+  margin: 0 auto;
+  margin-top: 50px;
+  display: grid;
+  width: 50vw;
+}
